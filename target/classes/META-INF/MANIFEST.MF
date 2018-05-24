@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+Implementation-Title: SpringCourse
+Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: g.guardabassi
+Implementation-Vendor-Id: de.reply.rvl
 Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringCourse
 Created-By: Maven Integration for Eclipse
 
